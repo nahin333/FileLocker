@@ -1,0 +1,11 @@
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\bin\Debug\Jarvis The Locker.exe.config
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\bin\Debug\Jarvis The Locker.exe
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\bin\Debug\Jarvis The Locker.pdb
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\obj\Debug\JarvisTheLocker.csprojResolveAssemblyReference.cache
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\obj\Debug\JarvisTheLocker.frmLogin.resources
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\obj\Debug\JarvisTheLocker.frmMain.resources
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\obj\Debug\JarvisTheLocker.frmRegister.resources
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\obj\Debug\JarvisTheLocker.Properties.Resources.resources
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\obj\Debug\JarvisTheLocker.csproj.GenerateResource.Cache
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\obj\Debug\Jarvis The Locker.exe
+G:\4_1\CSE 4115 (Rana Sir)\JarvisTheLocker\JarvisTheLocker\obj\Debug\Jarvis The Locker.pdb
